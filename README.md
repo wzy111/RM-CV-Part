@@ -15,4 +15,4 @@ numpy: 1.19.2
 shape_detect.py
 
 ### End
-A "test.pptx" file, a "update log.md" file and some .png files as results of detection are attached
+A "test.pptx" file, a "update log.md" file and some ".png" files as results of detection are attached.
